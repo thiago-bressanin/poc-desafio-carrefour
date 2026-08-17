@@ -1,0 +1,15 @@
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Domain/bin/Release/net9.0/CashFlow.Consolidation.Domain.deps.json
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Domain/bin/Release/net9.0/CashFlow.Consolidation.Domain.dll
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Domain/bin/Release/net9.0/CashFlow.Consolidation.Domain.pdb
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Domain/bin/Release/net9.0/CashFlow.BuildingBlocks.Domain.dll
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Domain/bin/Release/net9.0/CashFlow.BuildingBlocks.Domain.pdb
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Domain/obj/Release/net9.0/CashFlow.Consolidation.Domain.csproj.AssemblyReference.cache
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Domain/obj/Release/net9.0/CashFlow.Consolidation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Domain/obj/Release/net9.0/CashFlow.Consolidation.Domain.AssemblyInfoInputs.cache
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Domain/obj/Release/net9.0/CashFlow.Consolidation.Domain.AssemblyInfo.cs
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Domain/obj/Release/net9.0/CashFlow.Consolidation.Domain.csproj.CoreCompileInputs.cache
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Domain/obj/Release/net9.0/CashFlow.EC429D17.Up2Date
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Domain/obj/Release/net9.0/CashFlow.Consolidation.Domain.dll
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Domain/obj/Release/net9.0/refint/CashFlow.Consolidation.Domain.dll
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Domain/obj/Release/net9.0/CashFlow.Consolidation.Domain.pdb
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Domain/obj/Release/net9.0/ref/CashFlow.Consolidation.Domain.dll

@@ -1,0 +1,12 @@
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/BuildingBlocks/CashFlow.BuildingBlocks.Messaging/bin/Release/net9.0/CashFlow.BuildingBlocks.Messaging.deps.json
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/BuildingBlocks/CashFlow.BuildingBlocks.Messaging/bin/Release/net9.0/CashFlow.BuildingBlocks.Messaging.dll
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/BuildingBlocks/CashFlow.BuildingBlocks.Messaging/bin/Release/net9.0/CashFlow.BuildingBlocks.Messaging.pdb
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/BuildingBlocks/CashFlow.BuildingBlocks.Messaging/obj/Release/net9.0/CashFlow.BuildingBlocks.Messaging.csproj.AssemblyReference.cache
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/BuildingBlocks/CashFlow.BuildingBlocks.Messaging/obj/Release/net9.0/CashFlow.BuildingBlocks.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/BuildingBlocks/CashFlow.BuildingBlocks.Messaging/obj/Release/net9.0/CashFlow.BuildingBlocks.Messaging.AssemblyInfoInputs.cache
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/BuildingBlocks/CashFlow.BuildingBlocks.Messaging/obj/Release/net9.0/CashFlow.BuildingBlocks.Messaging.AssemblyInfo.cs
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/BuildingBlocks/CashFlow.BuildingBlocks.Messaging/obj/Release/net9.0/CashFlow.BuildingBlocks.Messaging.csproj.CoreCompileInputs.cache
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/BuildingBlocks/CashFlow.BuildingBlocks.Messaging/obj/Release/net9.0/CashFlow.BuildingBlocks.Messaging.dll
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/BuildingBlocks/CashFlow.BuildingBlocks.Messaging/obj/Release/net9.0/refint/CashFlow.BuildingBlocks.Messaging.dll
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/BuildingBlocks/CashFlow.BuildingBlocks.Messaging/obj/Release/net9.0/CashFlow.BuildingBlocks.Messaging.pdb
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/BuildingBlocks/CashFlow.BuildingBlocks.Messaging/obj/Release/net9.0/ref/CashFlow.BuildingBlocks.Messaging.dll

@@ -1,0 +1,118 @@
+{
+  "version": 4,
+  "targets": {
+    "net9.0": {
+      "MassTransit.Abstractions/8.3.6": {
+        "type": "package",
+        "compile": {
+          "lib/net9.0/MassTransit.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0/MassTransit.Abstractions.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MassTransit.Abstractions/8.3.6": {
+      "sha512": "F3R3EFPvUvpsiebnijmpvZ4IhSEcqkEJdrhlFuTOjzIUnMRYBgki/oDfFWj57Ki4b9yq0nilt4Q5bk11pC4ygg==",
+      "type": "package",
+      "path": "masstransit.abstractions/8.3.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "NuGet.README.md",
+        "lib/net472/MassTransit.Abstractions.dll",
+        "lib/net472/MassTransit.Abstractions.xml",
+        "lib/net8.0/MassTransit.Abstractions.dll",
+        "lib/net8.0/MassTransit.Abstractions.xml",
+        "lib/net9.0/MassTransit.Abstractions.dll",
+        "lib/net9.0/MassTransit.Abstractions.xml",
+        "lib/netstandard2.0/MassTransit.Abstractions.dll",
+        "lib/netstandard2.0/MassTransit.Abstractions.xml",
+        "masstransit.abstractions.8.3.6.nupkg.sha512",
+        "masstransit.abstractions.nuspec",
+        "mt-logo-small.png"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "MassTransit.Abstractions >= 8.3.6"
+    ]
+  },
+  "packageFolders": {
+    "/home/tbressanin/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/BuildingBlocks/CashFlow.BuildingBlocks.Messaging/CashFlow.BuildingBlocks.Messaging.csproj",
+      "projectName": "CashFlow.BuildingBlocks.Messaging",
+      "projectPath": "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/BuildingBlocks/CashFlow.BuildingBlocks.Messaging/CashFlow.BuildingBlocks.Messaging.csproj",
+      "packagesPath": "/home/tbressanin/.nuget/packages/",
+      "outputPath": "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/BuildingBlocks/CashFlow.BuildingBlocks.Messaging/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/tbressanin/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "framework": "net9.0",
+          "targetAlias": "net9.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.400"
+    },
+    "frameworks": {
+      "net9.0": {
+        "framework": "net9.0",
+        "targetAlias": "net9.0",
+        "dependencies": {
+          "MassTransit.Abstractions": {
+            "target": "Package",
+            "version": "[8.3.6, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/var/home/tbressanin/.dotnet/sdk/10.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

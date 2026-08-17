@@ -1,0 +1,12 @@
+{
+  "CashFlow.BuildingBlocks.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/var\/home\/tbressanin\/Documentos\/projects\/desafio-tecnico-carrefour-dev\/src\/BuildingBlocks\/CashFlow.BuildingBlocks.Domain",
+  "CashFlow.BuildingBlocks.Messaging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/var\/home\/tbressanin\/Documentos\/projects\/desafio-tecnico-carrefour-dev\/src\/BuildingBlocks\/CashFlow.BuildingBlocks.Messaging",
+  "CashFlow.Consolidation.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/var\/home\/tbressanin\/Documentos\/projects\/desafio-tecnico-carrefour-dev\/src\/Services\/Consolidation\/CashFlow.Consolidation.Api",
+  "CashFlow.Consolidation.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/var\/home\/tbressanin\/Documentos\/projects\/desafio-tecnico-carrefour-dev\/src\/Services\/Consolidation\/CashFlow.Consolidation.Application",
+  "CashFlow.Consolidation.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/var\/home\/tbressanin\/Documentos\/projects\/desafio-tecnico-carrefour-dev\/src\/Services\/Consolidation\/CashFlow.Consolidation.Domain",
+  "CashFlow.Consolidation.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/var\/home\/tbressanin\/Documentos\/projects\/desafio-tecnico-carrefour-dev\/src\/Services\/Consolidation\/CashFlow.Consolidation.Infrastructure",
+  "CashFlow.Transactions.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/var\/home\/tbressanin\/Documentos\/projects\/desafio-tecnico-carrefour-dev\/src\/Services\/Transactions\/CashFlow.Transactions.Api",
+  "CashFlow.Transactions.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/var\/home\/tbressanin\/Documentos\/projects\/desafio-tecnico-carrefour-dev\/src\/Services\/Transactions\/CashFlow.Transactions.Application",
+  "CashFlow.Transactions.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/var\/home\/tbressanin\/Documentos\/projects\/desafio-tecnico-carrefour-dev\/src\/Services\/Transactions\/CashFlow.Transactions.Domain",
+  "CashFlow.Transactions.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/var\/home\/tbressanin\/Documentos\/projects\/desafio-tecnico-carrefour-dev\/src\/Services\/Transactions\/CashFlow.Transactions.Infrastructure"
+}

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "E+0VMRFiYCw=",
+  "success": true,
+  "projectFilePath": "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Application/CashFlow.Consolidation.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/tbressanin/.nuget/packages/fluentvalidation/11.11.0/fluentvalidation.11.11.0.nupkg.sha512",
+    "/home/tbressanin/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.11.0/fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
+    "/home/tbressanin/.nuget/packages/masstransit.abstractions/8.3.6/masstransit.abstractions.8.3.6.nupkg.sha512",
+    "/home/tbressanin/.nuget/packages/mediatr/12.4.1/mediatr.12.4.1.nupkg.sha512",
+    "/home/tbressanin/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/tbressanin/.nuget/packages/microsoft.extensions.caching.abstractions/9.0.2/microsoft.extensions.caching.abstractions.9.0.2.nupkg.sha512",
+    "/home/tbressanin/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.2/microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512",
+    "/home/tbressanin/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.2/microsoft.extensions.logging.abstractions.9.0.2.nupkg.sha512",
+    "/home/tbressanin/.nuget/packages/microsoft.extensions.primitives/9.0.2/microsoft.extensions.primitives.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

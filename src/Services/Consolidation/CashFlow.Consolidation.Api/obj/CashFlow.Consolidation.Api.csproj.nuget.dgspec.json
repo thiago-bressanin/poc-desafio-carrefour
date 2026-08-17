@@ -1,0 +1,468 @@
+{
+  "format": 1,
+  "restore": {
+    "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Api/CashFlow.Consolidation.Api.csproj": {}
+  },
+  "projects": {
+    "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/BuildingBlocks/CashFlow.BuildingBlocks.Domain/CashFlow.BuildingBlocks.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/BuildingBlocks/CashFlow.BuildingBlocks.Domain/CashFlow.BuildingBlocks.Domain.csproj",
+        "projectName": "CashFlow.BuildingBlocks.Domain",
+        "projectPath": "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/BuildingBlocks/CashFlow.BuildingBlocks.Domain/CashFlow.BuildingBlocks.Domain.csproj",
+        "packagesPath": "/home/tbressanin/.nuget/packages/",
+        "outputPath": "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/BuildingBlocks/CashFlow.BuildingBlocks.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/tbressanin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "framework": "net9.0",
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net9.0": {
+          "framework": "net9.0",
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/var/home/tbressanin/.dotnet/sdk/10.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/BuildingBlocks/CashFlow.BuildingBlocks.Messaging/CashFlow.BuildingBlocks.Messaging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/BuildingBlocks/CashFlow.BuildingBlocks.Messaging/CashFlow.BuildingBlocks.Messaging.csproj",
+        "projectName": "CashFlow.BuildingBlocks.Messaging",
+        "projectPath": "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/BuildingBlocks/CashFlow.BuildingBlocks.Messaging/CashFlow.BuildingBlocks.Messaging.csproj",
+        "packagesPath": "/home/tbressanin/.nuget/packages/",
+        "outputPath": "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/BuildingBlocks/CashFlow.BuildingBlocks.Messaging/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/tbressanin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "framework": "net9.0",
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net9.0": {
+          "framework": "net9.0",
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MassTransit.Abstractions": {
+              "target": "Package",
+              "version": "[8.3.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/var/home/tbressanin/.dotnet/sdk/10.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Api/CashFlow.Consolidation.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Api/CashFlow.Consolidation.Api.csproj",
+        "projectName": "CashFlow.Consolidation.Api",
+        "projectPath": "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Api/CashFlow.Consolidation.Api.csproj",
+        "packagesPath": "/home/tbressanin/.nuget/packages/",
+        "outputPath": "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/tbressanin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "framework": "net9.0",
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Infrastructure/CashFlow.Consolidation.Infrastructure.csproj": {
+                "projectPath": "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Infrastructure/CashFlow.Consolidation.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net9.0": {
+          "framework": "net9.0",
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/var/home/tbressanin/.dotnet/sdk/10.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Application/CashFlow.Consolidation.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Application/CashFlow.Consolidation.Application.csproj",
+        "projectName": "CashFlow.Consolidation.Application",
+        "projectPath": "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Application/CashFlow.Consolidation.Application.csproj",
+        "packagesPath": "/home/tbressanin/.nuget/packages/",
+        "outputPath": "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/tbressanin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "framework": "net9.0",
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/BuildingBlocks/CashFlow.BuildingBlocks.Messaging/CashFlow.BuildingBlocks.Messaging.csproj": {
+                "projectPath": "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/BuildingBlocks/CashFlow.BuildingBlocks.Messaging/CashFlow.BuildingBlocks.Messaging.csproj"
+              },
+              "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Domain/CashFlow.Consolidation.Domain.csproj": {
+                "projectPath": "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Domain/CashFlow.Consolidation.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net9.0": {
+          "framework": "net9.0",
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            },
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/var/home/tbressanin/.dotnet/sdk/10.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Domain/CashFlow.Consolidation.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Domain/CashFlow.Consolidation.Domain.csproj",
+        "projectName": "CashFlow.Consolidation.Domain",
+        "projectPath": "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Domain/CashFlow.Consolidation.Domain.csproj",
+        "packagesPath": "/home/tbressanin/.nuget/packages/",
+        "outputPath": "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/tbressanin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "framework": "net9.0",
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/BuildingBlocks/CashFlow.BuildingBlocks.Domain/CashFlow.BuildingBlocks.Domain.csproj": {
+                "projectPath": "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/BuildingBlocks/CashFlow.BuildingBlocks.Domain/CashFlow.BuildingBlocks.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net9.0": {
+          "framework": "net9.0",
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/var/home/tbressanin/.dotnet/sdk/10.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Infrastructure/CashFlow.Consolidation.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Infrastructure/CashFlow.Consolidation.Infrastructure.csproj",
+        "projectName": "CashFlow.Consolidation.Infrastructure",
+        "projectPath": "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Infrastructure/CashFlow.Consolidation.Infrastructure.csproj",
+        "packagesPath": "/home/tbressanin/.nuget/packages/",
+        "outputPath": "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/tbressanin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "framework": "net9.0",
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Application/CashFlow.Consolidation.Application.csproj": {
+                "projectPath": "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Consolidation/CashFlow.Consolidation.Application/CashFlow.Consolidation.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net9.0": {
+          "framework": "net9.0",
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.3.6, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.3.6, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[8.5.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/var/home/tbressanin/.dotnet/sdk/10.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

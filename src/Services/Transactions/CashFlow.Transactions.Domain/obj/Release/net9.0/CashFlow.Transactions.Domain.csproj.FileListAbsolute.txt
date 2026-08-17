@@ -1,0 +1,15 @@
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Transactions/CashFlow.Transactions.Domain/bin/Release/net9.0/CashFlow.Transactions.Domain.deps.json
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Transactions/CashFlow.Transactions.Domain/bin/Release/net9.0/CashFlow.Transactions.Domain.dll
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Transactions/CashFlow.Transactions.Domain/bin/Release/net9.0/CashFlow.Transactions.Domain.pdb
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Transactions/CashFlow.Transactions.Domain/bin/Release/net9.0/CashFlow.BuildingBlocks.Domain.dll
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Transactions/CashFlow.Transactions.Domain/bin/Release/net9.0/CashFlow.BuildingBlocks.Domain.pdb
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Transactions/CashFlow.Transactions.Domain/obj/Release/net9.0/CashFlow.Transactions.Domain.csproj.AssemblyReference.cache
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Transactions/CashFlow.Transactions.Domain/obj/Release/net9.0/CashFlow.Transactions.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Transactions/CashFlow.Transactions.Domain/obj/Release/net9.0/CashFlow.Transactions.Domain.AssemblyInfoInputs.cache
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Transactions/CashFlow.Transactions.Domain/obj/Release/net9.0/CashFlow.Transactions.Domain.AssemblyInfo.cs
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Transactions/CashFlow.Transactions.Domain/obj/Release/net9.0/CashFlow.Transactions.Domain.csproj.CoreCompileInputs.cache
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Transactions/CashFlow.Transactions.Domain/obj/Release/net9.0/CashFlow.8EE755EE.Up2Date
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Transactions/CashFlow.Transactions.Domain/obj/Release/net9.0/CashFlow.Transactions.Domain.dll
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Transactions/CashFlow.Transactions.Domain/obj/Release/net9.0/refint/CashFlow.Transactions.Domain.dll
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Transactions/CashFlow.Transactions.Domain/obj/Release/net9.0/CashFlow.Transactions.Domain.pdb
+/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/Services/Transactions/CashFlow.Transactions.Domain/obj/Release/net9.0/ref/CashFlow.Transactions.Domain.dll

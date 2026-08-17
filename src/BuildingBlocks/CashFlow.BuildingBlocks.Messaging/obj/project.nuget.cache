@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VlE+51jGNsA=",
+  "success": true,
+  "projectFilePath": "/var/home/tbressanin/Documentos/projects/desafio-tecnico-carrefour-dev/src/BuildingBlocks/CashFlow.BuildingBlocks.Messaging/CashFlow.BuildingBlocks.Messaging.csproj",
+  "expectedPackageFiles": [
+    "/home/tbressanin/.nuget/packages/masstransit.abstractions/8.3.6/masstransit.abstractions.8.3.6.nupkg.sha512"
+  ],
+  "logs": []
+}

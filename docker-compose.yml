@@ -1,0 +1,83 @@
+services:
+  rabbitmq:
+    image: rabbitmq:3-management-alpine
+    container_name: cashflow-rabbitmq
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    environment:
+      RABBITMQ_DEFAULT_USER: guest
+      RABBITMQ_DEFAULT_PASS: guest
+    healthcheck:
+      test: ["CMD", "rabbitmq-diagnostics", "check_port_connectivity"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - cashflow-network
+
+  redis:
+    image: redis:7-alpine
+    container_name: cashflow-redis
+    ports:
+      - "6379:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+    networks:
+      - cashflow-network
+
+  transactions-api:
+    build:
+      context: .
+      dockerfile: src/Services/Transactions/CashFlow.Transactions.Api/Dockerfile
+    container_name: cashflow-transactions-api
+    ports:
+      - "5001:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - RabbitMQ__Host=rabbitmq
+      - RabbitMQ__Username=guest
+      - RabbitMQ__Password=guest
+      - ConnectionStrings__DefaultConnection=Data Source=/app/data/transactions.db
+    volumes:
+      - transactions-data:/app/data
+    depends_on:
+      rabbitmq:
+        condition: service_healthy
+    networks:
+      - cashflow-network
+
+  consolidation-api:
+    build:
+      context: .
+      dockerfile: src/Services/Consolidation/CashFlow.Consolidation.Api/Dockerfile
+    container_name: cashflow-consolidation-api
+    ports:
+      - "5002:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - RabbitMQ__Host=rabbitmq
+      - RabbitMQ__Username=guest
+      - RabbitMQ__Password=guest
+      - ConnectionStrings__Redis=redis:6379
+      - ConnectionStrings__DefaultConnection=Data Source=/app/data/consolidation.db
+    volumes:
+      - consolidation-data:/app/data
+    depends_on:
+      rabbitmq:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    networks:
+      - cashflow-network
+
+volumes:
+  transactions-data:
+  consolidation-data:
+
+networks:
+  cashflow-network:
+    driver: bridge
